@@ -21,4 +21,5 @@ desktopRuntime/resources/assets/.DS_Store
 #Dont commit builds because you want users to get them from github actions
 javascript/classes.js
 javascript/classes.js.map
+javascript/assets.epk
 javascript/Shadow_Client.html
