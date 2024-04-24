@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/allium"
+    "variants": {
+        "normal": { "model": "allium" }
     }
-  }
 }

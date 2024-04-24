@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/cyan_wool"
+    "variants": {
+        "normal": { "model": "cyan_wool" }
     }
-  }
 }

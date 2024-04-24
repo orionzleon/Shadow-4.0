@@ -1,13 +1,6 @@
 {
-  "variants": {
-    "type=bottom": {
-      "model": "minecraft:block/acacia_slab"
-    },
-    "type=double": {
-      "model": "minecraft:block/acacia_planks"
-    },
-    "type=top": {
-      "model": "minecraft:block/acacia_slab_top"
+    "variants": {
+        "half=bottom": { "model": "half_slab_acacia" },
+        "half=top": { "model": "upper_slab_acacia" }
     }
-  }
 }

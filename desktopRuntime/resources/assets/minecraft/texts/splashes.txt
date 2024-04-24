@@ -123,7 +123,7 @@ Seecret Friday update!
 Reference implementation!
 Kiss the sky!
 20 GOTO 10!
-Verlet integration!
+Verlet intregration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
@@ -279,6 +279,7 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
+Привет Россия!
 Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
@@ -300,7 +301,7 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Java 16 + 1 + 4 = 21!
+Java 16 + 1 = 17!
 Woah.
 HURNERJSGER?
 What's up, Doc?
@@ -424,23 +425,3 @@ Board game version also available!
 Honey, I waxed the copper!
 Plant-based light sources!
 Made by "real" people!
-Shriek like a Sculk Shrieker!
-Who let the frogs out?
-RIBBIT!
-Croak team!
-Nooooooooooooo!
-Flower forest TM perfume
-Hat Fridays!
-Technoblade never dies!
-You are valid!
-I'm glad you're here!
-You are welcome here!
-Your gender is valid!
-Contains infinite genders!
-Made with lave!
-This sand is sus
-Remember to brush your... ...teeth
-Has working bookshelves!
-Sniff sniff...
-Place hanging sign here
-Joule is neat too!

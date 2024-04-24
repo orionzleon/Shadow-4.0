@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/chiseled_red_sandstone"
+    "variants": {
+        "normal": { "model": "red_sandstone_chiseled" }
     }
-  }
 }

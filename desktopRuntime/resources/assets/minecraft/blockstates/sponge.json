@@ -1,7 +1,6 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/sponge"
+    "variants": {
+        "wet=false": { "model": "sponge" },
+        "wet=true": { "model": "sponge_wet" }
     }
-  }
 }

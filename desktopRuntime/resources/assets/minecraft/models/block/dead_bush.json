@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "minecraft:block/dead_bush"
-  }
+    "parent": "block/cross",
+    "textures": {
+        "cross": "blocks/deadbush"
+    }
 }

@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/template_fence_gate_open",
-  "textures": {
-    "texture": "minecraft:block/birch_planks"
-  }
+    "parent": "block/fence_gate_open",
+    "textures": {
+        "texture": "blocks/planks_birch"
+    }
 }

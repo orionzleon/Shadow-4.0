@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/gold_ore"
+    "variants": {
+        "normal": { "model": "gold_ore" }
     }
-  }
 }

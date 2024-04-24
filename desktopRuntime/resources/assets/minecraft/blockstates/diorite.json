@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/diorite"
+    "variants": {
+        "normal": { "model": "diorite" }
     }
-  }
 }

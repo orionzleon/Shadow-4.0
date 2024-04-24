@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/diorite"
-  }
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blocks/stone_diorite"
+    }
 }

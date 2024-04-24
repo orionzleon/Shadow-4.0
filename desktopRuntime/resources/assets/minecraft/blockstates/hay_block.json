@@ -1,16 +1,7 @@
 {
-  "variants": {
-    "axis=x": {
-      "model": "minecraft:block/hay_block_horizontal",
-      "x": 90,
-      "y": 90
-    },
-    "axis=y": {
-      "model": "minecraft:block/hay_block"
-    },
-    "axis=z": {
-      "model": "minecraft:block/hay_block_horizontal",
-      "x": 90
+    "variants": {
+        "axis=y": { "model": "hay" },
+        "axis=z": { "model": "hay_side" },
+        "axis=x": { "model": "hay_side", "y": 90 }
     }
-  }
 }

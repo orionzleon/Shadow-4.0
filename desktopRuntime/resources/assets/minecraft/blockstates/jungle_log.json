@@ -1,16 +1,8 @@
 {
-  "variants": {
-    "axis=x": {
-      "model": "minecraft:block/jungle_log_horizontal",
-      "x": 90,
-      "y": 90
-    },
-    "axis=y": {
-      "model": "minecraft:block/jungle_log"
-    },
-    "axis=z": {
-      "model": "minecraft:block/jungle_log_horizontal",
-      "x": 90
+    "variants": {
+        "axis=y":  { "model": "jungle_log" },
+        "axis=z":   { "model": "jungle_log_side" },
+        "axis=x":   { "model": "jungle_log_side", "y": 90 },
+        "axis=none": { "model": "jungle_bark" }
     }
-  }
 }

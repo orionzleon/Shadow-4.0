@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/redstone_block"
+    "variants": {
+        "normal": { "model": "redstone_block" }
     }
-  }
 }

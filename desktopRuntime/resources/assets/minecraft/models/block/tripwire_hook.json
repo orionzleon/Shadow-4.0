@@ -1,8 +1,8 @@
 {
     "textures": {
-        "particle": "block/oak_planks",
-        "hook": "block/tripwire_hook",
-        "wood": "block/oak_planks"
+        "particle": "blocks/planks_oak",
+        "hook": "blocks/trip_wire_source",
+        "wood": "blocks/planks_oak"
     },
     "elements": [
         {   "from": [ 6.2, 3.8, 7.9 ],
@@ -62,8 +62,8 @@
             "faces": {
                 "down":  { "uv": [  6, 14, 10, 16 ], "texture": "#wood" },
                 "up":    { "uv": [  6,  0, 10,  2 ], "texture": "#wood" },
-                "north": { "uv": [  6,  7, 10, 15 ], "texture": "#wood" },
-                "south": { "uv": [  6,  7, 10, 15 ], "texture": "#wood", "cullface": "south" },
+                "north": { "uv": [  6,  7, 10, 15 ], "texture": "#wood", "cullface": "north" },
+                "south": { "uv": [  6,  7, 10, 15 ], "texture": "#wood" },
                 "west":  { "uv": [  0,  7,  2, 15 ], "texture": "#wood" },
                 "east":  { "uv": [ 14,  7, 16, 15 ], "texture": "#wood" }
             }

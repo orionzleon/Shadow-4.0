@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/sea_lantern"
+    "variants": {
+        "normal": { "model": "sea_lantern" }
     }
-  }
 }
