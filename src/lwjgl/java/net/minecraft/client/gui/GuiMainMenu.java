@@ -338,7 +338,7 @@ public class GuiMainMenu extends GuiScreen implements GuiYesNoCallback {
 		
 
 		if(parGuiButton.id == 3) {
-			this.mc.displayGuiScreen(new GuiCredits(this, "/assets/shadow/CREDITS.txt"));
+			this.mc.displayGuiScreen(new GuiCredits(this, "/assets/shadow/credits/CREDITS.txt"));
 		}
 	}
 
