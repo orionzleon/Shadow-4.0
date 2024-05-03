@@ -523,8 +523,9 @@
       // %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     </script>
     <script type="text/javascript">
-          "use strict";
-          if (typeof window !== "undefined") window.eaglercraftXClientScriptElement = document.currentScript;
+      "use strict";
+      if (typeof window !== "undefined")
+        window.eaglercraftXClientScriptElement = document.currentScript;
       ${ classes_js }
     </script>
     <script type="text/javascript">
@@ -537,27 +538,41 @@
       var launchCountdownProgressElement = null;
 
       function launchTick() {
-        launchCountdownNumberElement.innerText = "" + Math.floor(6.0 - launchCounter * 0.06);
+        launchCountdownNumberElement.innerText =
+          "" + Math.floor(6.0 - launchCounter * 0.06);
         launchCountdownProgressElement.style.width = "" + launchCounter + "%";
         if (++launchCounter > 100) {
           clearInterval(launchInterval);
-          setTimeout(() => { document.getElementById("launch_countdown_screen").remove(); main(); }, 50);
+          setTimeout(() => {
+            document.getElementById("launch_countdown_screen").remove();
+            main();
+          }, 50);
         }
       }
 
       window.addEventListener("load", () => {
-        launchCountdownNumberElement = document.getElementById("launchCountdownNumber");
-        launchCountdownProgressElement = document.getElementById("launchCountdownProgress");
+        launchCountdownNumberElement = document.getElementById(
+          "launchCountdownNumber"
+        );
+        launchCountdownProgressElement = document.getElementById(
+          "launchCountdownProgress"
+        );
         launchInterval = setInterval(launchTick, 50);
       });
       function safeLaunch() {
         window.noLoadMods = true;
         clearInterval(launchInterval);
-        setTimeout(() => { document.getElementById("launch_countdown_screen").remove(); main(); }, 50);
+        setTimeout(() => {
+          document.getElementById("launch_countdown_screen").remove();
+          main();
+        }, 50);
       }
       function skipCountdown() {
         clearInterval(launchInterval);
-        setTimeout(() => { document.getElementById("launch_countdown_screen").remove(); main(); }, 50);
+        setTimeout(() => {
+          document.getElementById("launch_countdown_screen").remove();
+          main();
+        }, 50);
       }
     </script>
     <link
