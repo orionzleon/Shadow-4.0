@@ -1,6 +1,10 @@
 # Shadow Client 4.0
 
-**Click [here](https://tinyurl.com/eagler-download) for the latest downloads**
+## Downloads
+
+**Link 1: [tinyurl.com/eagler-download](https://tinyurl.com/eagler-download)**
+
+**Link 2: [bit.ly/eaglercraft-download](https://bit.ly/eaglercraft-download)**
 
 ## Building the web/offline version
 
